@@ -15,7 +15,7 @@ If you are looking for a business intelligence developer who can deliver reliabl
 Microsoft SQL Server • Python (Programming Language) • Microsoft Power BI • Business Intelligence (BI)
 
 # How to reach me
-Email: esraahassanfareha@gmail.com
-Linkedin: https://www.linkedin.com/in/esraa-fareha
-Kaggle: https://www.kaggle.com/esraafareha
-Novy Pro: https://www.novypro.com/profile_projects/esraafareha
+* Email: esraahassanfareha@gmail.com
+* Linkedin: https://www.linkedin.com/in/esraa-fareha
+* Kaggle: https://www.kaggle.com/esraafareha
+* Novy Pro: https://www.novypro.com/profile_projects/esraafareha
