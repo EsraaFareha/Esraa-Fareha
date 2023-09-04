@@ -1,4 +1,4 @@
-# Esraa-Fareha
+# EsraaFareha
 # About
 I am a business intelligence developer with three months of experience in the field. I am currently working as a technical support engineer, learning how to troubleshoot and resolve various technical issues for customers. I am also preparing to transition to the business intelligence team, where I will apply my data analysis, visualization, and reporting skills.
 
